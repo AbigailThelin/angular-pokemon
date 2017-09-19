@@ -117,10 +117,11 @@ select{
 }
 
 .addNew{
-  animation: .55s ease-in 0s 1 expandDown;
+  animation: .55s ease-in 0s 1 expandDown; 
   display: flex;
   overflow: hidden;
   padding-left: 15px;
+  margin-top: 10px;
 }
 
 .filter{
